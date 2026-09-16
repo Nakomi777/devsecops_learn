@@ -1,0 +1,1 @@
+print("selamat datang di login kopdes (koperasi desa indonesia)")
